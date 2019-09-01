@@ -1,0 +1,26 @@
+{
+  "last": {
+    "mac": {
+      "version": "1.1.0",
+      "pkgUrl": "https://github.com/train-snkrs/pkgs-winner-tools/raw/master/update-pkg-v1.1.0-mac.package.gz",
+      "pkgName": "update-pkg-v1.1.0-mac.package.gz",
+      "pkgMd5": "17849bb349d2e5256530b3b43cd37f17",
+      "pkgSize": 5863383,
+      "pkgSourceName": "update-pkg-v1.1.0-mac.package",
+      "skip": false
+    },
+    "win": {
+      "version": "1.1.0",
+      "pkgUrl": "https://github.com/train-snkrs/pkgs-winner-tools/raw/master/update-pkg-v1.1.0-win32.package.gz",
+      "pkgName": "update-pkg-v1.1.0-win32.package.gz",
+      "pkgMd5": "bdf2be34eab1fb1b1cdc4d127910d9d2",
+      "pkgSize": 5863414,
+      "pkgSourceName": "update-pkg-v1.1.0-win32.package",
+      "skip": false
+    }
+  },
+  "history": {
+    "mac": [],
+    "win": []
+  }
+}
